@@ -8,8 +8,9 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="cpp" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />][cpp]
-[<img align="left" alt="javascript" width="50px" 
+## 🛠️ Languages and Tools:
+
+![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,git,vscode)
 
 <br />
 <br/>
