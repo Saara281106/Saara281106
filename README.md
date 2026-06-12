@@ -7,10 +7,9 @@
 - 📫 Mail me on saara.281106@gmail.com
 
 
-##>🛠 Languages and Tools
+## 🛠 Languages and Tools
 
-
-<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,firebase,git,github,vscode" />
+![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,react,firebase,git,github,vscode)
 
 
 <br />
