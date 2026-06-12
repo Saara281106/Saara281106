@@ -6,15 +6,12 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 Mail me on saara.281106@gmail.com
 
-## Languages and Tools:
 
-## 🛠️ Languages and Tools:
+##>🛠 Languages and Tools
 
-<h2 align="center">🛠 Languages and Tools</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,firebase,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,firebase,git,github,vscode" />
+
 
 <br />
 <br/>
