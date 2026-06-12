@@ -10,7 +10,11 @@
 
 ## 🛠️ Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,git,vscode)
+<h2 align="center">🛠 Languages and Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,firebase,git,github,vscode" />
+</p>
 
 <br />
 <br/>
