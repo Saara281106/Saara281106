@@ -24,6 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com?user=Saara281106&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saara281106&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://stats.quine.sh/Saara281106/github?theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com?user=Saara281106&theme=radical&hide_border=true)<br/>
 
 
 ## GitHub Trophies:
