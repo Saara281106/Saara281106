@@ -1,9 +1,7 @@
 ## Introducation:
 
 - 👋 Hi, I’m @Saara281106
-- 👀 I’m interested in projects
 - 🌱 I’m currently doing computer science engineering
-- 💞️ I’m looking to collaborate on projects
 - 📫 Mail me on saara.281106@gmail.com
 
 
